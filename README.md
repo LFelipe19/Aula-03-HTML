@@ -1,2 +1,2 @@
 # Aula 03 HTML
- Exercícios terceira aula do Curso Em Video HTML e CSS
+ Exercícios terceira aula do Curso Em Video HTML e CSS - Carregamento de imagens.
